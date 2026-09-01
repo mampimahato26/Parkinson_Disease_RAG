@@ -1,0 +1,12 @@
+﻿Metric,Value
+Total Questions,200.0
+Successful Responses,161.0
+Failed Responses,39.0
+Success Rate (%),80.5
+Failure Rate (%),19.5
+Average Response Time (sec),5.25
+Minimum Response Time (sec),1.42
+Maximum Response Time (sec),46.24
+Average Retrieved Sources,5.0
+Minimum Retrieved Sources,5.0
+Maximum Retrieved Sources,5.0
